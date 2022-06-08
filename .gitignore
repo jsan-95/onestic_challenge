@@ -1,2 +1,5 @@
 # Project exclude paths
 /venv/
+/pms/debug.log
+/pms/media/
+/.idea/
